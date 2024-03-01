@@ -149,6 +149,13 @@
   background-position: 78% 50%;
 }
 
+.amenity-box--6 {
+  background-image: -webkit-gradient(linear, left top, right bottom, from(rgba(40, 180, 133, 0.5)), to(rgba(79, 97, 42, 0.5))), url(images/bulkmail1.png);
+  background-image: linear-gradient(to right bottom, rgba(40, 180, 133, 0.5), rgba(79, 97, 42, 0.5)), url(images/bulkmail3.png);
+  background-size: cover;
+  background-position: 78% 50%;
+}
+
 .amenity-box__title {
   font-size: 15px;
   /* text-transform: uppercase; */
